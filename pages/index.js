@@ -14,16 +14,18 @@ export default function App() {
           Aliquam maxime!
         </p>
       </div>
-      <style global jsx>{`
-        @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
-        body {
-          font-family: "Anton", sans-serif;
-        }
-        .center {
-          text-align: center;
-          margin: 0px 200px;
-        }
-      `}</style>
+      <style jsx global>
+        {`
+          @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+          body {
+            font-family: "Roboto Mono", monospace;
+          }
+          .center {
+            text-align: center;
+            margin: 0px 200px;
+          }
+        `}
+      </style>
     </div>
   );
 }
