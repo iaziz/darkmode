@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <Toggle />
       <div className="center">
-        <h1>Hello World</h1>
+        <h1>Hello World!</h1>
         <p>
           Sit culpa illo natus voluptas nulla? Quas consectetur qui temporibus
           maiores expedita doloremque Totam consectetur deleniti aliquid debitis
